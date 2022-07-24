@@ -1,7 +1,7 @@
 
 Software developer based in Mongolia, Ulaanbaatar
 
- 🌱 I do Programming, problem solving 
+ 🌱 I do Programming, ✨ problem solving 
 <!--
 **Oyunaa/Oyunaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
